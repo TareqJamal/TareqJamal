@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🏫: I am a `Graduate with a bachelor's degree` at [Faculty of Computers & Informatics](https://www.menofia.edu.eg/Home/ar) at [El-Menoufia University].
+- 🏫: I am a `Graduate with a bachelor's degree` at Faculty of Computers & Informatics at [El-Menoufia University].
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
