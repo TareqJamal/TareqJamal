@@ -9,13 +9,10 @@
 
 <br><br>
 
-- 🏫: I am a `Graduate with a bachelor's degree` at Faculty of Computers & Informatics at [El-Menoufia University].
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🏫: I am a `Graduate with a bachelor's degree` at Faculty of Computers & Informatics.
+- 🧑‍💻: I love using Software as a solution for every `Problem`.
+- 🤓: Always `learning new things`.
+- 🤔: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 <br>
 
 
