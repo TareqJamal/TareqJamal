@@ -60,7 +60,7 @@
   </a> 
   &emsp;
   <a href="https://www.jQuery.org" target="_blank">
-    <img alt="JQuery" src="https://img.shields.io/badge/jquery%2361DAFB.svg?style=plastic&logo=JQuery&logoColor=black">
+    <img alt="JQuery" src="https://img.shields.io/badge/JQuery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=blue">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
