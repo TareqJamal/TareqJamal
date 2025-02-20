@@ -12,9 +12,8 @@
 - 🏫: I am a `Graduate with a bachelor's degree` at Faculty of Computers & Informatics.
 - 🧑‍💻: I love using Software as a solution for every `Problem`.
 - 🤓: Always `learning new things`.
-- 🤔: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 <br>
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact Me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> 
 <p align="center">
 	<a href="mailto:tareqjamal113@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/TareqJamal"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
