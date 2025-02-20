@@ -59,7 +59,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.jquery.org" target="_blank">
+  <a href="https://www.jQuery.org" target="_blank">
     <img alt="JQuery" src="https://img.shields.io/badge/jquery%2361DAFB.svg?style=plastic&logo=JQuery&logoColor=black">
   </a>
   &emsp;
